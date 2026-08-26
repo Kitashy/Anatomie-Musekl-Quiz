@@ -1,0 +1,1034 @@
+
+[
+  {
+    "muskel": "M. adductor brevis",
+    "ursprung": [
+      "Ramus inferior ossis pubis"
+    ],
+    "ansatz": [
+      "Linea pectinea femoris",
+      "proximale Linea aspera"
+    ]
+  },
+  {
+    "muskel": "M. adductor longus",
+    "ursprung": [
+      "Ramus superior ossis pubis, nahe der Symphysis pubica"
+    ],
+    "ansatz": [
+      "mittleres Drittel der Linea aspera, Labium mediale"
+    ]
+  },
+  {
+    "muskel": "M. adductor magnus",
+    "ursprung": [
+      "Ramus inferior ossis pubis",
+      "Ramus ossis ischii",
+      "Tuber ischiadicum"
+    ],
+    "ansatz": [
+      "Tuberositas glutea",
+      "Linea aspera, Labium mediale",
+      "Linea supracondylaris medialis",
+      "Tuberculum adductorium am Femur"
+    ]
+  },
+  {
+    "muskel": "M. adductor minimus",
+    "ursprung": [
+      "Ramus inferior ossis pubis"
+    ],
+    "ansatz": [
+      "proximale Linea aspera",
+      "Tuberositas glutea"
+    ]
+  },
+  {
+    "muskel": "M. gracilis",
+    "ursprung": [
+      "Ramus inferior ossis pubis",
+      "Ramus ossis ischii, nahe der Symphysis pubica"
+    ],
+    "ansatz": [
+      "Pes anserinus superficialis an der medialen proximalen Tibia"
+    ]
+  },
+  {
+    "muskel": "M. pectineus",
+    "ursprung": [
+      "Pecten ossis pubis",
+      "Eminentia iliopubica"
+    ],
+    "ansatz": [
+      "Linea pectinea femoris"
+    ]
+  },
+  {
+    "muskel": "M. biceps femoris",
+    "ursprung": [
+      "Caput longum: Tuber ischiadicum, inferomediale Fläche",
+      "Caput breve: Labium laterale der Linea aspera",
+      "Caput breve: Linea supracondylaris lateralis"
+    ],
+    "ansatz": [
+      "laterale Fläche des Caput fibulae",
+      "Fasern zur Ligamentum collaterale fibulare und angrenzenden Tibia"
+    ]
+  },
+  {
+    "muskel": "M. gastrocnemius",
+    "ursprung": [
+      "Caput mediale: Fläche oberhalb des Condylus medialis femoris",
+      "Caput laterale: Fläche oberhalb des Condylus lateralis femoris"
+    ],
+    "ansatz": [
+      "Tuber calcanei über die Tendo calcaneus"
+    ]
+  },
+  {
+    "muskel": "M. popliteus",
+    "ursprung": [
+      "Facies lateralis des Condylus lateralis femoris",
+      "Kapsel des Kniegelenks, über das Ligamentum popliteum arcuatum"
+    ],
+    "ansatz": [
+      "Facies posterior der Tibia, proximal der Linea musculi solei"
+    ]
+  },
+  {
+    "muskel": "M. soleus",
+    "ursprung": [
+      "Caput fibulae und proximaler Abschnitt der Fibula",
+      "Linea musculi solei und medialer Rand der Tibia",
+      "Arcus tendineus musculi solei"
+    ],
+    "ansatz": [
+      "Tuber calcanei über die Tendo calcaneus"
+    ]
+  },
+  {
+    "muskel": "M. rectus femoris",
+    "ursprung": [
+      "Spina iliaca anterior inferior",
+      "oberer Rand des Acetabulums"
+    ],
+    "ansatz": [
+      "Patella über die Quadrizepssehne",
+      "Tuberositas tibiae über das Ligamentum patellae"
+    ]
+  },
+  {
+    "muskel": "M. vastus medialis",
+    "ursprung": [
+      "Linea intertrochanterica",
+      "Labium mediale der Linea aspera",
+      "Linea supracondylaris medialis"
+    ],
+    "ansatz": [
+      "Patella über die Quadrizepssehne",
+      "Tuberositas tibiae über das Ligamentum patellae"
+    ]
+  },
+  {
+    "muskel": "M. vastus lateralis",
+    "ursprung": [
+      "Trochanter major",
+      "Tuberositas glutea",
+      "Labium laterale der Linea aspera"
+    ],
+    "ansatz": [
+      "Patella über die Quadrizepssehne",
+      "Tuberositas tibiae über das Ligamentum patellae"
+    ]
+  },
+  {
+    "muskel": "M. vastus intermedius",
+    "ursprung": [
+      "proximale zwei Drittel der Vorderfläche und Seitenfläche des Femurs"
+    ],
+    "ansatz": [
+      "Patella über die Quadrizepssehne",
+      "Tuberositas tibiae über das Ligamentum patellae"
+    ]
+  },
+  {
+    "muskel": "M. semimembranosus",
+    "ursprung": [
+      "Tuber ischiadicum"
+    ],
+    "ansatz": [
+      "hintere Fläche des Condylus medialis tibiae",
+      "Fasern zum Ligamentum popliteum obliquum"
+    ]
+  },
+  {
+    "muskel": "M. semitendinosus",
+    "ursprung": [
+      "Tuber ischiadicum"
+    ],
+    "ansatz": [
+      "Pes anserinus superficialis an der medialen proximalen Tibia"
+    ]
+  },
+  {
+    "muskel": "M. sartorius",
+    "ursprung": [
+      "Spina iliaca anterior superior"
+    ],
+    "ansatz": [
+      "Pes anserinus superficialis an der medialen proximalen Tibia"
+    ]
+  },
+  {
+    "muskel": "M. tibialis anterior",
+    "ursprung": [
+      "Condylus lateralis tibiae",
+      "obere zwei Drittel der Facies lateralis tibiae",
+      "Membrana interossea cruris"
+    ],
+    "ansatz": [
+      "Facies medialis des Os cuneiforme mediale",
+      "Basis ossis metatarsalis I"
+    ]
+  },
+  {
+    "muskel": "M. tibialis posterior",
+    "ursprung": [
+      "Membrana interossea cruris",
+      "hintere Fläche der Tibia unterhalb der Linea musculi solei",
+      "hintere Fläche der Fibula"
+    ],
+    "ansatz": [
+      "Tuberositas ossis navicularis",
+      "Os cuneiforme mediale und weitere Ossa tarsalia",
+      "Basen der Ossa metatarsalia II–IV"
+    ]
+  },
+  {
+    "muskel": "M. gluteus maximus",
+    "ursprung": [
+      "Facies glutea des Os ilium hinter der Linea glutea posterior",
+      "Dorsalfläche von Os sacrum und Os coccygis",
+      "Ligamentum sacrotuberale"
+    ],
+    "ansatz": [
+      "Tractus iliotibialis",
+      "Tuberositas glutea des Femurs"
+    ]
+  },
+  {
+    "muskel": "M. gluteus medius",
+    "ursprung": [
+      "Facies glutea des Os ilium zwischen Linea glutea anterior und posterior"
+    ],
+    "ansatz": [
+      "laterale Fläche des Trochanter major"
+    ]
+  },
+  {
+    "muskel": "M. gluteus minimus",
+    "ursprung": [
+      "Facies glutea des Os ilium zwischen Linea glutea anterior und inferior"
+    ],
+    "ansatz": [
+      "anterolaterale Fläche des Trochanter major"
+    ]
+  },
+  {
+    "muskel": "M. iliacus",
+    "ursprung": [
+      "Fossa iliaca",
+      "Ala ossis sacri und angrenzender Bereich des Ligamentum iliolumbale"
+    ],
+    "ansatz": [
+      "Trochanter minor über die gemeinsame Sehne mit M. psoas major"
+    ]
+  },
+  {
+    "muskel": "M. psoas major",
+    "ursprung": [
+      "Seitenflächen der Wirbelkörper T12–L5",
+      "Disci intervertebrales T12/L1 bis L4/L5",
+      "Processus transversi L1–L5"
+    ],
+    "ansatz": [
+      "Trochanter minor über die gemeinsame Iliopsoas-Sehne"
+    ]
+  },
+  {
+    "muskel": "M. psoas minor",
+    "ursprung": [
+      "Seitenflächen der Wirbelkörper T12 und L1",
+      "Discus intervertebralis T12/L1"
+    ],
+    "ansatz": [
+      "Eminentia iliopubica",
+      "Pecten ossis pubis über das Ligamentum pectineum"
+    ]
+  },
+  {
+    "muskel": "M. piriformis",
+    "ursprung": [
+      "Facies pelvica des Os sacrum, typischerweise S2–S4"
+    ],
+    "ansatz": [
+      "Apex/mediale Fläche des Trochanter major"
+    ]
+  },
+  {
+    "muskel": "M. scalenus anterior",
+    "ursprung": [
+      "Tubercula anteriora der Processus transversi C3–C6"
+    ],
+    "ansatz": [
+      "Tuberculum musculi scaleni anterioris an der 1. Rippe"
+    ]
+  },
+  {
+    "muskel": "M. scalenus medius",
+    "ursprung": [
+      "Tubercula posteriora der Processus transversi C2–C7"
+    ],
+    "ansatz": [
+      "1. Rippe, dorsal des Sulcus arteriae subclaviae"
+    ]
+  },
+  {
+    "muskel": "M. scalenus posterior",
+    "ursprung": [
+      "Tubercula posteriora der Processus transversi C4–C6"
+    ],
+    "ansatz": [
+      "2. Rippe, äußere Fläche"
+    ]
+  },
+  {
+    "muskel": "M. splenius capitis",
+    "ursprung": [
+      "Ligamentum nuchae, kaudaler Abschnitt",
+      "Processus spinosi C7–T3/T4"
+    ],
+    "ansatz": [
+      "Processus mastoideus",
+      "laterales Drittel der Linea nuchae superior"
+    ]
+  },
+  {
+    "muskel": "M. splenius cervicis",
+    "ursprung": [
+      "Processus spinosi T3–T6"
+    ],
+    "ansatz": [
+      "Tubercula posteriora der Processus transversi C1–C3/4"
+    ]
+  },
+  {
+    "muskel": "M. anconeus",
+    "ursprung": [
+      "Epicondylus lateralis humeri, dorsale Fläche"
+    ],
+    "ansatz": [
+      "laterale Fläche des Olecranons",
+      "proximaler dorsaler Abschnitt der Ulna"
+    ]
+  },
+  {
+    "muskel": "M. biceps brachii",
+    "ursprung": [
+      "Caput longum: Tuberculum supraglenoidale scapulae",
+      "Caput breve: Processus coracoideus scapulae"
+    ],
+    "ansatz": [
+      "Tuberositas radii",
+      "Fascia antebrachii über die Aponeurosis musculi bicipitis brachii"
+    ]
+  },
+  {
+    "muskel": "M. brachialis",
+    "ursprung": [
+      "distale Hälfte der Vorderfläche des Humerus",
+      "Septum intermusculare mediale und laterale"
+    ],
+    "ansatz": [
+      "Tuberositas ulnae",
+      "Processus coronoideus ulnae"
+    ]
+  },
+  {
+    "muskel": "M. brachioradialis",
+    "ursprung": [
+      "proximale zwei Drittel der Crista supracondylaris lateralis humeri"
+    ],
+    "ansatz": [
+      "Processus styloideus radii"
+    ]
+  },
+  {
+    "muskel": "M. coracobrachialis",
+    "ursprung": [
+      "Processus coracoideus scapulae"
+    ],
+    "ansatz": [
+      "mittleres Drittel der medialen Humerusfläche"
+    ]
+  },
+  {
+    "muskel": "M. triceps brachii",
+    "ursprung": [
+      "Caput longum: Tuberculum infraglenoidale scapulae",
+      "Caput laterale: dorsale Humerusfläche proximal des Sulcus nervi radialis",
+      "Caput mediale: dorsale Humerusfläche distal des Sulcus nervi radialis"
+    ],
+    "ansatz": [
+      "Olecranon ulnae",
+      "Fascia antebrachii"
+    ]
+  },
+  {
+    "muskel": "M. pronator teres",
+    "ursprung": [
+      "Caput humerale: Epicondylus medialis humeri",
+      "Caput ulnare: Processus coronoideus ulnae"
+    ],
+    "ansatz": [
+      "mittleres Drittel der lateralen Radiusfläche"
+    ]
+  },
+  {
+    "muskel": "M. supinator",
+    "ursprung": [
+      "Epicondylus lateralis humeri",
+      "Ligamentum anulare radii",
+      "Ligamentum collaterale radiale",
+      "Crista musculi supinatoris der proximalen Ulna"
+    ],
+    "ansatz": [
+      "proximales Drittel der lateralen, anterioren und posterioren Radiusfläche"
+    ]
+  },
+  {
+    "muskel": "M. extensor carpi radialis brevis",
+    "ursprung": [
+      "Epicondylus lateralis humeri",
+      "Ligamentum collaterale radiale"
+    ],
+    "ansatz": [
+      "Basis ossis metacarpalis III, dorsale Fläche"
+    ]
+  },
+  {
+    "muskel": "M. extensor carpi radialis longus",
+    "ursprung": [
+      "Crista supracondylaris lateralis humeri",
+      "Septum intermusculare laterale"
+    ],
+    "ansatz": [
+      "Basis ossis metacarpalis II, dorsale Fläche"
+    ]
+  },
+  {
+    "muskel": "M. extensor carpi ulnaris",
+    "ursprung": [
+      "Epicondylus lateralis humeri",
+      "dorsaler Rand der Ulna"
+    ],
+    "ansatz": [
+      "Basis ossis metacarpalis V, dorsale Fläche"
+    ]
+  },
+  {
+    "muskel": "M. flexor carpi radialis",
+    "ursprung": [
+      "Epicondylus medialis humeri, über die gemeinsame Flexorensehne"
+    ],
+    "ansatz": [
+      "Basis ossis metacarpalis II",
+      "häufig auch Basis ossis metacarpalis III"
+    ]
+  },
+  {
+    "muskel": "M. flexor carpi ulnaris",
+    "ursprung": [
+      "Caput humerale: Epicondylus medialis humeri",
+      "Caput ulnare: Olecranon und dorsaler Rand der Ulna"
+    ],
+    "ansatz": [
+      "Os pisiforme",
+      "über Ligamentum pisohamatum und Ligamentum pisometacarpale zum Hamulus ossis hamati und zur Basis des Metacarpale V"
+    ]
+  },
+  {
+    "muskel": "M. deltoideus",
+    "ursprung": [
+      "laterales Drittel der Clavicula",
+      "Acromion",
+      "Spina scapulae"
+    ],
+    "ansatz": [
+      "Tuberositas deltoidea humeri"
+    ]
+  },
+  {
+    "muskel": "M. infraspinatus",
+    "ursprung": [
+      "Fossa infraspinata scapulae"
+    ],
+    "ansatz": [
+      "mittlere Facette des Tuberculum majus humeri",
+      "Gelenkkapsel des Schultergelenks"
+    ]
+  },
+  {
+    "muskel": "M. supraspinatus",
+    "ursprung": [
+      "Fossa supraspinata scapulae"
+    ],
+    "ansatz": [
+      "obere Facette des Tuberculum majus humeri",
+      "Gelenkkapsel des Schultergelenks"
+    ]
+  },
+  {
+    "muskel": "M. teres minor",
+    "ursprung": [
+      "mittlerer Abschnitt der lateralen Scapulakante"
+    ],
+    "ansatz": [
+      "untere Facette des Tuberculum majus humeri",
+      "Gelenkkapsel des Schultergelenks"
+    ]
+  },
+  {
+    "muskel": "M. subscapularis",
+    "ursprung": [
+      "Fossa subscapularis"
+    ],
+    "ansatz": [
+      "Tuberculum minus humeri",
+      "Crista tuberculi minoris",
+      "Gelenkkapsel des Schultergelenks"
+    ]
+  },
+  {
+    "muskel": "M. latissimus dorsi",
+    "ursprung": [
+      "Processus spinosi T7–T12",
+      "Fascia thoracolumbalis",
+      "Crista iliaca",
+      "Rippen 9–12"
+    ],
+    "ansatz": [
+      "Boden des Sulcus intertubercularis humeri"
+    ]
+  },
+  {
+    "muskel": "M. levator scapulae",
+    "ursprung": [
+      "Processus transversi C1–C4"
+    ],
+    "ansatz": [
+      "medialer Rand der Scapula zwischen Angulus superior und Spina scapulae"
+    ]
+  },
+  {
+    "muskel": "M. pectoralis minor",
+    "ursprung": [
+      "Rippen 3–5, nahe den Knorpel-Knochen-Übergängen"
+    ],
+    "ansatz": [
+      "Processus coracoideus scapulae"
+    ]
+  },
+  {
+    "muskel": "M. pectoralis major",
+    "ursprung": [
+      "mediale Hälfte der Clavicula",
+      "Sternum und angrenzende Knorpel der Rippen 1–6",
+      "Aponeurose des M. obliquus externus abdominis"
+    ],
+    "ansatz": [
+      "laterale Lippe des Sulcus intertubercularis humeri",
+      "Crista tuberculi majoris"
+    ]
+  },
+  {
+    "muskel": "M. quadratus lumborum",
+    "ursprung": [
+      "Crista iliaca",
+      "Ligamentum iliolumbale"
+    ],
+    "ansatz": [
+      "Unterrand der 12. Rippe",
+      "Processus transversi L1–L4"
+    ]
+  },
+  {
+    "muskel": "M. rhomboideus major",
+    "ursprung": [
+      "Processus spinosi T2–T5"
+    ],
+    "ansatz": [
+      "medialer Rand der Scapula von Höhe der Spina scapulae bis Angulus inferior"
+    ]
+  },
+  {
+    "muskel": "M. rhomboideus minor",
+    "ursprung": [
+      "Ligamentum nuchae",
+      "Processus spinosi C7–T1"
+    ],
+    "ansatz": [
+      "medialer Rand der Scapula auf Höhe der Spina scapulae"
+    ]
+  },
+  {
+    "muskel": "M. serratus anterior",
+    "ursprung": [
+      "Rippen 1–8/9, äußere Flächen"
+    ],
+    "ansatz": [
+      "Facies costalis des medialen Scapularandes",
+      "Angulus superior, Margo medialis und Angulus inferior der Scapula"
+    ]
+  },
+  {
+    "muskel": "M. serratus posterior inferior",
+    "ursprung": [
+      "Processus spinosi T11–L2"
+    ],
+    "ansatz": [
+      "untere Ränder der Rippen 9–12"
+    ]
+  },
+  {
+    "muskel": "M. serratus posterior superior",
+    "ursprung": [
+      "Ligamentum nuchae",
+      "Processus spinosi C7–T3"
+    ],
+    "ansatz": [
+      "obere Ränder der Rippen 2–5"
+    ]
+  },
+  {
+    "muskel": "M. teres major",
+    "ursprung": [
+      "dorsale Fläche des Angulus inferior scapulae"
+    ],
+    "ansatz": [
+      "Crista tuberculi minoris humeri"
+    ]
+  },
+  {
+    "muskel": "M. rectus abdominis",
+    "ursprung": [
+      "Crista pubica",
+      "Symphysis pubica"
+    ],
+    "ansatz": [
+      "Processus xiphoideus",
+      "Knorpel der 5.–7. Rippe"
+    ]
+  },
+  {
+    "muskel": "M. transversus abdominis",
+    "ursprung": [
+      "Innenflächen der 7.–12. Rippenknorpel",
+      "Fascia thoracolumbalis",
+      "Crista iliaca",
+      "laterales Drittel des Ligamentum inguinale"
+    ],
+    "ansatz": [
+      "Linea alba über Aponeurose",
+      "Crista pubica",
+      "Pecten ossis pubis über die gemeinsame Sehne"
+    ]
+  },
+  {
+    "muskel": "M. obliquus externus abdominis",
+    "ursprung": [
+      "Außenflächen der Rippen 5–12"
+    ],
+    "ansatz": [
+      "Linea alba",
+      "Tuberculum pubicum",
+      "vordere Hälfte der Crista iliaca"
+    ]
+  },
+  {
+    "muskel": "M. obliquus internus abdominis",
+    "ursprung": [
+      "Fascia thoracolumbalis",
+      "vordere zwei Drittel der Crista iliaca",
+      "laterales Drittel des Ligamentum inguinale"
+    ],
+    "ansatz": [
+      "untere Ränder der Rippen 10–12",
+      "Linea alba",
+      "Pecten ossis pubis über die gemeinsame Sehne"
+    ]
+  },
+  {
+    "muskel": "M. trapezius",
+    "ursprung": [
+      "mediales Drittel der Linea nuchae superior",
+      "Protuberantia occipitalis externa",
+      "Ligamentum nuchae",
+      "Processus spinosi C7–T12"
+    ],
+    "ansatz": [
+      "laterales Drittel der Clavicula",
+      "Acromion",
+      "Spina scapulae"
+    ]
+  },
+  {
+    "muskel": "M. abductor digiti minimi (Hand)",
+    "ursprung": [
+      "Os pisiforme",
+      "Tendo musculi flexoris carpi ulnaris"
+    ],
+    "ansatz": [
+      "Basis der proximalen Phalanx des 5. Fingers, ulnare Seite"
+    ]
+  },
+  {
+    "muskel": "M. abductor pollicis brevis",
+    "ursprung": [
+      "Tuberculum ossis scaphoidei",
+      "Tuberculum ossis trapezii",
+      "Retinaculum flexorum"
+    ],
+    "ansatz": [
+      "Basis der proximalen Phalanx des Daumens, radial",
+      "Os sesamoideum"
+    ]
+  },
+  {
+    "muskel": "M. adductor pollicis",
+    "ursprung": [
+      "Caput obliquum: Capitatum und Basen der Metacarpalia II–III",
+      "Caput transversum: Vorderfläche des Metacarpale III"
+    ],
+    "ansatz": [
+      "Basis der proximalen Phalanx des Daumens, ulnar",
+      "Os sesamoideum ulnar"
+    ]
+  },
+  {
+    "muskel": "M. flexor pollicis brevis",
+    "ursprung": [
+      "Tuberculum ossis trapezii",
+      "Retinaculum flexorum",
+      "Caput profundum: Os trapezoideum/Capitatum"
+    ],
+    "ansatz": [
+      "Basis der proximalen Phalanx des Daumens, radial",
+      "Os sesamoideum radial"
+    ]
+  },
+  {
+    "muskel": "M. opponens pollicis",
+    "ursprung": [
+      "Tuberculum ossis trapezii",
+      "Retinaculum flexorum"
+    ],
+    "ansatz": [
+      "lateraler Rand und angrenzende palmare Fläche des Metacarpale I"
+    ]
+  },
+  {
+    "muskel": "M. extensor digiti minimi",
+    "ursprung": [
+      "Epicondylus lateralis humeri, gemeinsame Extensorensehne"
+    ],
+    "ansatz": [
+      "dorsale Aponeurose des 5. Fingers"
+    ]
+  },
+  {
+    "muskel": "M. extensor digitorum",
+    "ursprung": [
+      "Epicondylus lateralis humeri, gemeinsame Extensorensehne"
+    ],
+    "ansatz": [
+      "dorsale Aponeurosen der Finger 2–5"
+    ]
+  },
+  {
+    "muskel": "M. extensor pollicis brevis",
+    "ursprung": [
+      "dorsale Fläche des Radius",
+      "Membrana interossea antebrachii"
+    ],
+    "ansatz": [
+      "Basis der proximalen Phalanx des Daumens"
+    ]
+  },
+  {
+    "muskel": "M. extensor pollicis longus",
+    "ursprung": [
+      "mittleres Drittel der dorsalen Ulna",
+      "Membrana interossea antebrachii"
+    ],
+    "ansatz": [
+      "Basis der distalen Phalanx des Daumens"
+    ]
+  },
+  {
+    "muskel": "M. sternocleidomastoideus",
+    "ursprung": [
+      "Caput sternale: Manubrium sterni",
+      "Caput claviculare: mediales Drittel der Clavicula"
+    ],
+    "ansatz": [
+      "laterale Fläche des Processus mastoideus",
+      "laterale Hälfte der Linea nuchae superior"
+    ]
+  },
+  {
+    "muskel": "M. flexor hallucis longus",
+    "ursprung": [
+      "distale zwei Drittel der dorsalen Fibula",
+      "Membrana interossea cruris"
+    ],
+    "ansatz": [
+      "Basis der distalen Phalanx der Großzehe, plantar"
+    ]
+  },
+  {
+    "muskel": "M. fibularis brevis",
+    "ursprung": [
+      "distale zwei Drittel der lateralen Fibulafläche"
+    ],
+    "ansatz": [
+      "Tuberositas ossis metatarsalis V"
+    ]
+  },
+  {
+    "muskel": "M. fibularis longus",
+    "ursprung": [
+      "Caput fibulae",
+      "proximale zwei Drittel der lateralen Fibulafläche"
+    ],
+    "ansatz": [
+      "Basis ossis metatarsalis I, plantar",
+      "Os cuneiforme mediale, plantar"
+    ]
+  },
+  {
+    "muskel": "M. fibularis tertius",
+    "ursprung": [
+      "distales Drittel der vorderen Fibulafläche",
+      "Membrana interossea cruris"
+    ],
+    "ansatz": [
+      "dorsale Fläche der Basis ossis metatarsalis V"
+    ]
+  },
+  {
+    "muskel": "M. abductor digiti minimi (Fuß)",
+    "ursprung": [
+      "Processus medialis tuberis calcanei",
+      "Aponeurosis plantaris"
+    ],
+    "ansatz": [
+      "Basis der proximalen Phalanx der 5. Zehe"
+    ]
+  },
+  {
+    "muskel": "M. abductor hallucis",
+    "ursprung": [
+      "Processus medialis tuberis calcanei",
+      "Retinaculum musculorum flexorum",
+      "Aponeurosis plantaris"
+    ],
+    "ansatz": [
+      "mediale Basis der proximalen Phalanx der Großzehe",
+      "mediales Os sesamoideum"
+    ]
+  },
+  {
+    "muskel": "M. adductor hallucis",
+    "ursprung": [
+      "Caput obliquum: Basen der Metatarsalia II–IV",
+      "Caput transversum: plantare Bänder der Metatarsophalangealgelenke III–V"
+    ],
+    "ansatz": [
+      "laterale Basis der proximalen Phalanx der Großzehe",
+      "laterales Os sesamoideum"
+    ]
+  },
+  {
+    "muskel": "M. extensor hallucis longus",
+    "ursprung": [
+      "mittleres Drittel der vorderen Fibulafläche",
+      "Membrana interossea cruris"
+    ],
+    "ansatz": [
+      "Basis der distalen Phalanx der Großzehe"
+    ]
+  },
+  {
+    "muskel": "M. extensor digitorum brevis",
+    "ursprung": [
+      "dorsale Fläche des Calcaneus"
+    ],
+    "ansatz": [
+      "Sehnen des M. extensor digitorum longus zu den Zehen 2–4"
+    ]
+  },
+  {
+    "muskel": "M. flexor digiti minimi brevis (Fuß)",
+    "ursprung": [
+      "Basis des 5. Metatarsale",
+      "Ligamentum plantare longum"
+    ],
+    "ansatz": [
+      "Basis der proximalen Phalanx der 5. Zehe"
+    ]
+  },
+  {
+    "muskel": "M. flexor digitorum brevis",
+    "ursprung": [
+      "Processus medialis tuberis calcanei",
+      "Aponeurosis plantaris"
+    ],
+    "ansatz": [
+      "mittlere Phalangen der Zehen 2–5"
+    ]
+  },
+  {
+    "muskel": "M. flexor hallucis brevis",
+    "ursprung": [
+      "plantare Fläche des Os cuboideum",
+      "Os cuneiforme laterale",
+      "Ligamentum plantare longum"
+    ],
+    "ansatz": [
+      "Basis der proximalen Phalanx der Großzehe",
+      "beide Sesambeine"
+    ]
+  },
+  {
+    "muskel": "M. gemellus inferior",
+    "ursprung": [
+      "Tuber ischiadicum"
+    ],
+    "ansatz": [
+      "mediale Fläche des Trochanter major über die Sehne des M. obturatorius internus"
+    ]
+  },
+  {
+    "muskel": "M. gemellus superior",
+    "ursprung": [
+      "Spina ischiadica"
+    ],
+    "ansatz": [
+      "mediale Fläche des Trochanter major über die Sehne des M. obturatorius internus"
+    ]
+  },
+  {
+    "muskel": "M. tensor fasciae latae",
+    "ursprung": [
+      "Spina iliaca anterior superior",
+      "angrenzender vorderer Abschnitt der Crista iliaca"
+    ],
+    "ansatz": [
+      "Tractus iliotibialis"
+    ]
+  },
+  {
+    "muskel": "M. flexor digitorum longus",
+    "ursprung": [
+      "mediale Fläche der Tibia unterhalb der Linea musculi solei"
+    ],
+    "ansatz": [
+      "Basen der distalen Phalangen der Zehen 2–5"
+    ]
+  },
+  {
+    "muskel": "M. quadratus femoris",
+    "ursprung": [
+      "lateraler Rand des Tuber ischiadicum"
+    ],
+    "ansatz": [
+      "Tuberositas quadrata am Femur",
+      "Crista intertrochanterica"
+    ]
+  },
+  {
+    "muskel": "M. obturatorius externus",
+    "ursprung": [
+      "Außenfläche der Membrana obturatoria",
+      "angrenzende knöcherne Ränder des Foramen obturatum"
+    ],
+    "ansatz": [
+      "Fossa trochanterica femoris"
+    ]
+  },
+  {
+    "muskel": "M. obturatorius internus",
+    "ursprung": [
+      "Innenfläche der Membrana obturatoria",
+      "knöcherner Rand des Foramen obturatum"
+    ],
+    "ansatz": [
+      "mediale Fläche des Trochanter major über die Sehne, im Bereich der Fossa trochanterica"
+    ]
+  },
+  {
+    "muskel": "M. erector spinae",
+    "ursprung": [
+      "gemeinsame Ursprungsaponeurose am dorsalen Os sacrum",
+      "Crista iliaca",
+      "Sacrum und Dornfortsätze der unteren Lendenwirbelsäule"
+    ],
+    "ansatz": [
+      "M. iliocostalis: Rippen und Processus transversi der Halswirbelsäule",
+      "M. longissimus: Processus transversi und Mastoid",
+      "M. spinalis: Processus spinosi der oberen Lenden-, Brust- und Halswirbelsäule"
+    ]
+  },
+  {
+    "muskel": "M. flexor digitorum profundus",
+    "ursprung": [
+      "proximale drei Viertel der Vorder- und medialen Fläche der Ulna",
+      "Membrana interossea antebrachii"
+    ],
+    "ansatz": [
+      "Basen der distalen Phalangen der Finger 2–5"
+    ]
+  },
+  {
+    "muskel": "M. flexor digitorum superficialis",
+    "ursprung": [
+      "Caput humeroulnare: Epicondylus medialis humeri",
+      "Ligamentum collaterale ulnare",
+      "Processus coronoideus ulnae",
+      "Caput radiale: proximale zwei Drittel der Vorderfläche des Radius"
+    ],
+    "ansatz": [
+      "mittlere Phalangen der Finger 2–5"
+    ]
+  },
+  {
+    "muskel": "M. epitrochleoanconeus",
+    "ursprung": [
+      "Epicondylus medialis humeri"
+    ],
+    "ansatz": [
+      "mediale Fläche des Olecranons",
+      "proximale dorsale Ulna"
+    ]
+  },
+  {
+    "muskel": "M. pronator quadratus",
+    "ursprung": [
+      "distales Viertel der Vorderfläche der Ulna"
+    ],
+    "ansatz": [
+      "distales Viertel der Vorderfläche und des Vorderrandes des Radius"
+    ]
+  }
+]
