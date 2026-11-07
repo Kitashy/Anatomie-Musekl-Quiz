@@ -1,67 +1,113 @@
+
 <!DOCTYPE html>
 <html lang="de">
-
 <head>
     <meta charset="UTF-8">
-
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <title>Anatomie Muskel Quiz</title>
-
     <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
 
-    <div class="quiz-container">
+<main class="app">
 
-        <!-- Kopfbereich -->
-        <div class="top-bar">
+    <!-- HAUPTMENÜ -->
+    <section id="hauptmenue" class="panel">
 
-            <div id="fortschritt">
-                Muskel 1 / 99
-            </div>
+        <header class="app-header">
+            <p class="eyebrow">PHYSIOTHERAPIE · ANATOMIE</p>
+            <h1>ANATOMIE QUIZ</h1>
+            <div class="gold-line"></div>
+            <p>Wähle deinen Lernbereich</p>
+        </header>
 
-            <div id="punkte">
-                Punkte: 0
-            </div>
+        <button class="random-button" data-kategorie="random">
+            RANDOM – ALLE MUSKELN
+            <span id="gesamtzahl">99 Muskeln</span>
+        </button>
 
+        <h3 class="section-title">KÖRPERREGIONEN</h3>
+
+        <div class="category-grid">
+            <button class="category-button" data-kategorie="schulter">
+                Schulter
+            </button>
+            <button class="category-button" data-kategorie="ellenbogen">
+                Ellenbogen
+            </button>
+            <button class="category-button" data-kategorie="hand">
+                Hand
+            </button>
+            <button class="category-button" data-kategorie="becken">
+                Becken
+            </button>
+            <button class="category-button" data-kategorie="huefte">
+                Hüfte
+            </button>
+            <button class="category-button" data-kategorie="knie">
+                Knie
+            </button>
+            <button class="category-button" data-kategorie="fuss">
+                Fuß
+            </button>
         </div>
 
+        <p id="menue-status">Lade Muskeldaten...</p>
+    </section>
 
-        <!-- Titel -->
-        <h1>Anatomie Muskel Quiz</h1>
+    <!-- QUIZ -->
+    <section id="quiz" class="panel hidden">
 
+        <div class="quiz-top">
+            <button id="zurueck" class="back-button">
+                ← Menü
+            </button>
 
-        <!-- Aktueller Muskel -->
-        <div class="muskel-box">
-
-            <p class="frage-text">
-                Welcher Ursprung und Ansatz gehört zu:
-            </p>
-
-            <h2 id="muskel">
-                Lade Muskel...
-            </h2>
-
+            <span id="punkte">Punkte: 0</span>
         </div>
 
-
-        <!-- Antwortmöglichkeiten -->
-        <div id="antworten">
+        <div class="quiz-heading">
+            <p id="kategorie-titel">Random</p>
+            <h2 id="muskel">Lade Muskel...</h2>
+            <p>Welcher Ursprung und Ansatz ist korrekt?</p>
         </div>
 
-
-        <!-- Rückmeldung -->
-        <div id="feedback">
+        <div class="progress-info">
+            <span id="fortschritt">Muskel 1 / 99</span>
+            <span id="prozent">0%</span>
         </div>
 
-    </div>
+        <div class="progress-track">
+            <div id="progress-bar"></div>
+        </div>
 
+        <div id="antworten"></div>
 
-    <!-- JavaScript -->
-    <script src="script.js"></script>
+        <div id="feedback" aria-live="polite"></div>
+    </section>
 
+    <!-- ABSCHLUSS -->
+    <section id="ergebnis" class="panel hidden">
+        <header class="app-header">
+            <p class="eyebrow">QUIZ ABGESCHLOSSEN</p>
+            <h1>DEIN ERGEBNIS</h1>
+            <div class="gold-line"></div>
+        </header>
+
+        <div class="result-score" id="endpunkte">0 / 99</div>
+        <p id="ergebnis-text"></p>
+
+        <button id="neustart" class="random-button">
+            ERNEUT STARTEN
+        </button>
+
+        <button id="zum-menue" class="secondary-button">
+            Zurück zum Hauptmenü
+        </button>
+    </section>
+
+</main>
+
+<script src="script.js"></script>
 </body>
-
 </html>
